@@ -1,0 +1,19 @@
+User-agent: Googlebot
+Disallow:
+Disallow: /
+Crawl-delay: 10
+
+User-agent: Yandex
+Disallow:
+Disallow: /
+Crawl-delay: 2
+
+User-agent: archive.org_bot
+Disallow:
+Disallow: /
+Crawl-delay: 2
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://screwfast.uk/sitemap-index.xml
